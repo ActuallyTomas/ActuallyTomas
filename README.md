@@ -1,3 +1,5 @@
+<div align="center">
+    
 ### Web Developer | Exploit Resercher | Graphic Designer
 
 <div align="center">
