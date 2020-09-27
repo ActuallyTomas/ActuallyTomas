@@ -3,8 +3,6 @@
 ### Web Developer | Exploit Resercher | Graphic Designer
 
 <div align="center">
-    <br>
-    <br>
     <a href="https://status.nmoo.dev/blocks/1">
         <img src="https://status.nmoo.dev/blocks/1" width="32" height="32">
     </a>
