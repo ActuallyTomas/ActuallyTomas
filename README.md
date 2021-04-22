@@ -38,6 +38,6 @@
 
 **Now Playing** on Spotify
 
-<a href="https://sposstatus-h2atr90u4.vercel.app/now-playing?open">
-    <img src="https://sposstatus-h2atr90u4.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://sposstatus-pa16bk1fr-actuallytomas.vercel.app/now-playing?open">
+    <img src="https://sposstatus-pa16bk1fr-actuallytomas.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
