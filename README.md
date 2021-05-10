@@ -20,6 +20,7 @@ _Web Developer_  |  _Translator_  |  _Graphic Designer_
  📝  - Majoring in Computer Science and Aerospace Engineering.<br />
  💻  - Web Development.<br />
  🎨  - Created Marketing and Branding Assets for Chick-Fil-A (2018 - 2021), Team JAS (2017).<br />
+ 🌎  - Fluent in English, Portuguese, Italian. Currently Studying French, Mandarin and Croatian.<br />
  🏄‍♂️ Surfing, 🛹 Skating, ⛳ Golf, ✈ Flying, and Recreating Random Brands are my Hobbies. <br />
  
 <br />
