@@ -45,6 +45,6 @@ __+__
 
 **Now Playing** on Spotify
 
-<a href="https://sposstatus-pa16bk1fr-actuallytomas.vercel.app/now-playing?open">
-    <img src="https://sposstatus-pa16bk1fr-actuallytomas.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a> <- yes i know this is broken give a man a break.
+<a href="https://now-playing-profile-blue.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-blue.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
