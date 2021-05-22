@@ -16,7 +16,7 @@ _Web Developer_  |  _Translator_  |  _Graphic Designer_
 
  ### About Me<br />
  >🎈  - 20 Years Old.<br />
-  🇵🇹  - Translated (former) for Hypixel, Badlion Client, Minecraft.<br />
+  🇵🇹  - Formerly translated for Hypixel, Badlion Client, Minecraft.<br />
  📝  - Double Majoring in Computer Science and Aerospace Engineering.<br />
  💻  - Web Development.<br />
  🎨  - Created Marketing and Branding Assets for Chick-Fil-A (2018 - 2021), Team JAS (2017).<br />
