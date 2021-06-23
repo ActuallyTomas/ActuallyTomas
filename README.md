@@ -1,6 +1,6 @@
 <div align="center">
     
-   # Hi I'm Tomas. (つ ◕_◕)つ *sending good vibes*
+   # Hi I'm Tomas. (つ ◕_◕)つ
     
 _Web Developer_  |  _Translator_  |  _Graphic Designer_
     
