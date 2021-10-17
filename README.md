@@ -9,6 +9,8 @@ _Web Developer_  |  _Translator_  |  _Graphic Designer_
 ### Most Recent Projects 
 > **Currenlty Working on:** Coding a program to automatically create playnetwork playdisc's to be used on locked media players commonly found in Starbucks, Panera Bread, GAP, Hilton hotels, Nike etc..
 
+> Designing and developing a new website for CocoaBeachOffice, a Coworking startup.
+
 > Nothing else to see here... yet. 
 
 <br />
